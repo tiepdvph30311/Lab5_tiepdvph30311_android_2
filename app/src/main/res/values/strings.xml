@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Tab1</string>
+    <string name="hello_blank_fragment2">Tab2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

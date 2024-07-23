@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/demo1"
+        android:icon="@drawable/add"
+        android:title="Fragment 1"/>
+    <item
+        android:id="@+id/demo2"
+        android:icon="@drawable/add"
+        android:title="Fragment 2"/>
+    <item
+        android:id="@+id/demo3"
+        android:icon="@drawable/add"
+        android:title="Fragment 3"/>
+</menu>
